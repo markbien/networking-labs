@@ -11,4 +11,8 @@ This repository documents my practical exercises using Cisco Packet Tracer, incl
 - Track my progress toward the CCNA 200-301 certification.
 
 ## Lab Index
-[01-vlan-roas-vlsm-stp-troubleshooting](./01-vlan-roas-vlsm-stp-troubleshooting/)
+
+| Lab  |
+| :--- |
+| [01-vlan-roas-vlsm-stp-troubleshooting](./01-vlan-roas-vlsm-stp-troubleshooting/) |
+| [02-layer-3-switching](./02-layer-3-switching/) |
