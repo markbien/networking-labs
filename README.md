@@ -16,3 +16,4 @@ This repository documents my practical exercises using Cisco Packet Tracer, incl
 | :--- |
 | [01-vlan-roas-vlsm-stp-troubleshooting](./01-vlan-roas-vlsm-stp-troubleshooting/) |
 | [02-layer-3-switching](./02-layer-3-switching/) |
+| [03-eigrp-rstp](./03-eigrp-rstp/) |
